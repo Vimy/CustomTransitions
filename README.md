@@ -1,4 +1,4 @@
 # CustomTransitions
 
 Basic animated transition.
-In Objective-C. Most tutorials are in swift.
+Because most tutorials about this are in swift, I'm going to make one with objective-c.
